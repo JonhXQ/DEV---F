@@ -1,9 +1,3 @@
-<style>
-    h1{color:red;}
-    h2{color:yellow;}
-    p{align:justify;}
-</style>
-
 <h1>Ejercicio 3 [css]</h1>
 <p>Deberás de recrear la siguiente imagen con las especificaciones especificaciones</p>
 
