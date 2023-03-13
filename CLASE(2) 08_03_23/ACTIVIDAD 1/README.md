@@ -1,4 +1,4 @@
-<h1>Ejercicio 1 [html]</h1>  
+<h1>Ejercicio 1 [html] (COMPLETADO)</h1>  
 <p>
     En este ejercicio, vamos a trabajar con la sintaxis de HTML y los elementos básicos.
 </p>
