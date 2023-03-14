@@ -1,4 +1,4 @@
-<h1>Ejercicio 2 [html]</h1>
+<h1>Ejercicio 2 [html] (COMPLETADO)</h1>
 <p>
     En este ejercicio, vamos a trabajar con la sintaxis de HTML semántico.
 </p>
