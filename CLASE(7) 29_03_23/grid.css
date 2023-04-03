@@ -1,0 +1,64 @@
+html{
+    width: 100%;
+}
+
+body{
+    width: 500px;
+}
+
+#grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+
+    /*grid-template-areas:
+    "d d d d d"
+    "a a . . ."
+    "a a c c c"
+    ". . b b b";
+    row-gap: 50px;
+    column-gap: 50px;*/
+    gap: 50px 50px; /* row-gap column-gap */
+    align-items: start;
+}
+
+#area_1{
+    background-color: green;
+    color: white;
+    /*grid-area: a;*/
+    grid-column-start: 4;
+    grid-column-end: 6;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    justify-self: center;
+}
+
+#area_2{
+    background-color: blue;
+    color: white;
+    /*grid-area: b;*/
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+#area_3{
+    background-color: red;
+    color: white;
+    /*grid-area: c;*/
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 5;
+}
+
+#area_4{
+    background-color: yellow;
+    color: white;
+    /*grid-area: d;*/
+    grid-column-start: 3;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
