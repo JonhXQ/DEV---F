@@ -10,23 +10,23 @@
     </ul>
 
 <h3><strong>Web vs Internet</strong></h3>
-    <p align="justify">No son lo mismo. La web es un sistema de distribución de documentos de hipertexto que es parte de internet, pero no todo internet es la web</p>
+    <p>No son lo mismo. La web es un sistema de distribución de documentos de hipertexto que es parte de internet, pero no todo internet es la web</p>
 
 <h3><strong>Navegador Web</strong></h3>
-    <p align="justify">Son programas que permiten el acceso a la World Wide Web, servicio accesible gracias a Internet</p>
+    <p>Son programas que permiten el acceso a la World Wide Web, servicio accesible gracias a Internet</p>
 
 <h3><strong>Clientes y Servidores</strong></h3>
-    <p align="justify">Los servidores son PC cuya tarea es escuchar peticiones de PC cliente y responder</p>
+    <p>Los servidores son PC cuya tarea es escuchar peticiones de PC cliente y responder</p>
 
 <h3><strong>Frontend y Backend</strong></h3>
-    <p align="justify">El desarrollo web se divide en frontend y backend</p>
+    <p>El desarrollo web se divide en frontend y backend</p>
     <ul>
-        <li align="justify">El frontend se encarga de construir lo que el usuario puede ver a través del navegador, y las interacciones que puede tener en la página web</li>
-        <li align="justify">El backend se encarga de manejar y procesar la información que se usa en una página web, como una base de datos de usuarios</li>
+        <li>El frontend se encarga de construir lo que el usuario puede ver a través del navegador, y las interacciones que puede tener en la página web</li>
+        <li>El backend se encarga de manejar y procesar la información que se usa en una página web, como una base de datos de usuarios</li>
     </ul>
 
 <h2 align="center"><strong>1.2.1 HTML semántico</strong></h2>
-<p align="justify">Web semántica es una manera distinta de pensar en diseño web con funcionalidades que no se encontraban disponibles en versiones anteriores de HTML</p>
+<p>Web semántica es una manera distinta de pensar en diseño web con funcionalidades que no se encontraban disponibles en versiones anteriores de HTML</p>
     <ul>
         <li><b>nav: </b>Normalmente se utiliza para delimitar una barra de navegación</li>
         <li><b>main: </b>Aquí colocamos el contenido más relevante del sitio, un buen uso puede ser el primer contenido que será visible al cargar el sitio</li>
