@@ -1,6 +1,6 @@
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
 <h1>CURSO DEV - F</h1>
 <h2><a  href="ACTIVIDADES.md">ACTIVIDADES</a></h2>
 <h2>1.1.1 ¿Cómo funciona la web?</h2>
+<p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum neque at suscipit sodales. Etiam quis auctor elit. Suspendisse tempor porta turpis, id tincidunt tortor dignissim non. Proin vitae mi quis metus tempus sollicitudin. Duis sed posuere erat. Cras scelerisque ut turpis ac imperdiet. Suspendisse porttitor, nibh ac sagittis ultrices, arcu odio imperdiet mi, eu consectetur dui dolor sed quam. Donec id enim at nulla viverra dignissim. Ut convallis dui ut ornare posuere. Pellentesque accumsan, ex id placerat congue, leo urna suscipit risus, sed bibendum nunc ex ac neque. Cras volutpat tortor non semper blandit. Vestibulum eu consequat erat. Quisque euismod varius quam, sed dictum nisl consectetur vitae.
+
+Integer imperdiet ultrices velit, nec consequat felis fermentum vitae. Nam semper neque non est facilisis, eu viverra sem ultrices. Duis scelerisque feugiat libero sit amet sagittis. Phasellus nec quam vel lectus posuere vulputate vitae nec purus. Nam bibendum sapien bibendum augue fermentum elementum. Donec rhoncus sollicitudin risus eleifend commodo. Maecenas ac dignissim libero, ac varius libero. Donec et purus orci. Nullam ultricies, sem sed sollicitudin fermentum, ante quam fermentum sapien, nec tristique ex ante vel ligula. Nunc scelerisque ipsum sit amet neque hendrerit ornare. Suspendisse potenti. Praesent sodales convallis tincidunt. Nunc id vulputate elit. Praesent ante sapien, ullamcorper id lacinia eget, feugiat sed turpis. Etiam faucibus facilisis placerat.</p>
