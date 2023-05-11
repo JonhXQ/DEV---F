@@ -1,0 +1,8 @@
+#divPrincipal{
+    width: 500px; height: 500px;
+    border: 5px solid green;
+}
+
+.cuadro{width: 200px; height: 200px;}
+.rojo{background-color: red;}
+.azul{background-color: blue;}

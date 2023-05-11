@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>Product List</h1>
+        <h3 id="total">Total: <span>$ 0</span></h3>
+        <form id="form">
+            <input type="text" id="search" placeholder="Buscar" name="search">
+            <input type="submit" value="Buscar">
+        </form>
+        <button id="reset">Reset</button>
+    </header>
+    <main id="productList">
+<!--         <img src="https://via.placeholder.com/200" alt="">
+        <h2>${line.nombre}</h2>
+        <h3>Precio: <span> ${line.precio}</span></h3>
+        <p>Cantidad: <span> ${line.cantidad}</span></p>
+        <p>Descripción: <span> ${line.descripcion}</span></p>
+        <button>Comprar</button> -->
+    </main>
+    <footer>
+        <table>
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Precio</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody id="tableProducts"></tbody>
+        </table>
+        <button id="resetTotal">Borrar carrito</button>
+    </footer>
+    <script src="./JS/script.js"></script>
+</body>
+
+</html>
