@@ -1,10 +1,14 @@
 {
     "cSpell.words": [
         "Alices",
+        "arbol",
+        "Arbol",
         "descripcion",
         "divs",
         "Jesua",
         "numeros",
-        "Parametros"
-    ]
+        "Parametros",
+        "raiz"
+    ],
+    "liveServer.settings.port": 5501
 }
