@@ -1,4 +1,4 @@
-<h1>ACTIVIDADES:</h1>
+<h1>CLASES:</h1>
 
 <h2>Kata Intro a la Web</h2>
 <ul>
