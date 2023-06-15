@@ -2,13 +2,13 @@
 
 <h2>Kata Intro a la Web</h2>
 <ul>
-    <li><a href="./Kata_1/CLASE_1/">CLase 1: 06/03/2023</a></li>
-    <li><a href="./Kata_1/CLASE_2/">CLase 2: 08/03/2023</a></li>
-    <li><a href="./Kata_1/CLASE_3/">CLase 3: 13/03/2023</a></li>
-    <li><a href="./Kata_1/CLASE_4/">CLase 4: 15/03/2023</a></li>
-    <li><a href="./Kata_1/CLASE_5/">CLase 5: 22/03/2023</a></li>
-    <li><a href="./Kata_1/CLASE_6/">CLase 6: 27/03/2023</a></li>
-    <li><a href="./Kata_1/CLASE_7/">CLase 7: 29/03/2023</a></li>
+    <li><a href="./Kata_1/CLASE_1/">Clase 1: 06/03/2023</a></li>
+    <li><a href="./Kata_1/CLASE_2/">Clase 2: 08/03/2023</a></li>
+    <li><a href="./Kata_1/CLASE_3/">Clase 3: 13/03/2023</a></li>
+    <li><a href="./Kata_1/CLASE_4/">Clase 4: 15/03/2023</a></li>
+    <li><a href="./Kata_1/CLASE_5/">Clase 5: 22/03/2023</a></li>
+    <li><a href="./Kata_1/CLASE_6/">Clase 6: 27/03/2023</a></li>
+    <li><a href="./Kata_1/CLASE_7/">Clase 7: 29/03/2023</a></li>
 </ul>
 
 <h2>Kata JavaScript</h2>
