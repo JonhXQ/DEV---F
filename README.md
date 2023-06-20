@@ -16,6 +16,8 @@
 
 <h2>Kata Computer Science</h2>
 
+<h3><a href="./LECTURAS/Kata_3/7_1_1.md">7.1.1 Introducción a la lógica</a></h3>
+
 <h3><a href="./LECTURAS/Kata_3/10_1_1.md">10.1.1 Programación Orientada a Objetos</a></h3>
 
 <h3><a href="./LECTURAS/Kata_3/10_1_2.md">10.1.2 Objetos</a></h3>
