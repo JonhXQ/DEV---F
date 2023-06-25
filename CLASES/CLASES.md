@@ -30,4 +30,6 @@
     <li><a href="./Kata_3/CLASE_18/">Clase 18: 07/06/2023</a></li>
     <li><a href="./Kata_3/CLASE_19/">Clase 19: 12/06/2023</a></li>
     <li><a href="./Kata_3/CLASE_20/">Clase 20: 14/06/2023</a></li>
+    <li><a href="./Kata_3/CLASE_21/">Clase 21: 19/06/2023</a></li>
+    <li><a href="./Kata_3/CLASE_22/">Clase 22: 21/06/2023</a></li>
 </ul>
