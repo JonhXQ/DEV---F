@@ -4,11 +4,17 @@
 
 <h2 align="center"><a href="./CLASES/CLASES.md">CLASES</a></h2>
 
+<h2 align="center"><a href="./CDN.md">CDN</a></h2>
+
 <h2>Kata Intro a la Web</h2>
 
 <h3><a href="./LECTURAS/Kata_1/1_1_1.md">1.1.1 ¿Cómo funciona la web?</a></h3>
 
 <h3><a href="./LECTURAS/Kata_1/1_1_2.md">1.1.2 Herramientas de desarrollo web</a></h3>
+
+<h3><a href="./LECTURAS/Kata_1/1_1_3.md">1.1.3 ¿Qué es un dominio?</a></h3>
+
+<h3><a href="./LECTURAS/Kata_1/1_1_4.md">1.1.4 ¿Qué es un hosting?</a></h3>
 
 <h3><a href="./LECTURAS/Kata_1/1_2_1.md">1.2.1 HTML semántico</a></h3>
 

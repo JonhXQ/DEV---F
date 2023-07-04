@@ -33,3 +33,8 @@
     <li><a href="./Kata_3/CLASE_21/">Clase 21: 19/06/2023</a></li>
     <li><a href="./Kata_3/CLASE_22/">Clase 22: 21/06/2023</a></li>
 </ul>
+
+<h2>Kata JavaScript Avanzado</h2>
+<ul>
+    <li><a href="./Kata_4/CLASE_23/">Clase 23: 03/07/2023</a></li>
+</ul>
