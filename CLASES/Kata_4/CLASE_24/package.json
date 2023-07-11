@@ -1,0 +1,15 @@
+{
+  "name": "clase_24",
+  "version": "1.0.0",
+  "description": "Miércoles 5 de julio del 2023",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "number2texto": "^0.0.9"
+  }
+}
