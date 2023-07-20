@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD</title>
+</head>
+<body>
+    <h1>CRUD BÁSICO</h1>
+
+    <h2>CREAR ALUMNO NUEVO</h2>
+        <label>Nombre: </label><input type="text" id="nombreAlumnoNuevo"><br>
+        <label>Control: </label><input type="text" id="controlAlumnoNuevo"><br> 
+        <label>Edad: </label><input type="number" id="edadAlumnoNuevo"><br>
+        <label>Semestre: </label><input type="number" id="semestreAlumnoNuevo"><br>
+        <button onclick="crear()">Crear alumno</button>
+
+    <hr><h2>BUSCAR ALUMNO</h2>
+    
+    <label>ID alumno: </label><input type="text" id="idAlumnoBuscar"><br>
+    <button onclick="buscar()">Buscar alumno</button>
+    
+
+    <p>Nombre: <span id="nombreAlumnoRegistro"> - </span></p>
+    <p>Control: <span id="controlAlumnoRegistro"> - </span></p>
+    <p>Edad: <span id="edadAlumnoRegistro"> - </span></p>
+    <p>Semestre: <span id="semestreAlumnoRegistro"> - </span></p>
+
+    <hr><h2>BORRAR ALUMNO</h2>
+        <label for="ID alumno: "></label><input type="text" id="idAlumnoBorrar"><br>
+        <button onclick="borrar()">Borrar alumno</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
