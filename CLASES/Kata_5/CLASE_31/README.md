@@ -28,4 +28,6 @@ https://vitejs.dev/
     ```
     npm run dev -- --host
     ```
+
+## GRABACIÓN DE LA CLASE
 <a href=""><img src="/CLASES/Kata_5/KATA_5.png"></a>
