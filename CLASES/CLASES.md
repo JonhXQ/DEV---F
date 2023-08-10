@@ -42,4 +42,11 @@
     <li><a href="./Kata_4/CLASE_26/">Clase 26: 12/07/2023</a></li>
     <li><a href="./Kata_4/CLASE_27/">Clase 27: 17/07/2023</a></li>
     <li><a href="./Kata_4/CLASE_28/">Clase 28: 19/07/2023</a></li>
+    <li><a href="./Kata_4/CLASE_29/">Clase 29: 24/07/2023</a></li>
+    <li><a href="./Kata_4/CLASE_30/">Clase 30: 26/07/2023</a></li>
+</ul>
+
+<h2>Kata Frontend</h2>
+<ul>
+    <li><a href="./Kata_5/CLASE_31/">Clase 31: 09/08/2023</a></li>
 </ul>
