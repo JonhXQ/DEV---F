@@ -16,7 +16,7 @@ https://vitejs.dev/
 3. Seguimos las instrucciones que nos permitirán escoger el nombre del proyecto, el lenguaje, etc.
 4. Para arrancar el servidor introducimos en la terminal:
     ```
-    npm cd "Nombre del Proyecto"
+    npm cd [nombreProyecto]
     ```
     ```
     npm install
@@ -30,4 +30,4 @@ https://vitejs.dev/
     ```
 
 ## GRABACIÓN DE LA CLASE
-<a href=""><img src="/CLASES/Kata_5/KATA_5.png"></a>
+<a href="https://youtu.be/9klkfN227Q0?t=1"><img src="/CLASES/Kata_5/KATA_5.png"></a>
