@@ -52,6 +52,6 @@
     <li><a href="./Kata_5/CLASE_32/">Clase 32: 14/08/2023</a></li>
     <li><a href="./Kata_5/CLASE_33/">Clase 33: 16/08/2023</a></li>
     <li><a href="./Kata_5/CLASE_34/">Clase 34: 21/08/2023</a></li>
-    <li><a href="./Kata_5/CLASE_34/">Clase 35: 23/08/2023</a></li>
-    <li><a href="./Kata_5/CLASE_34/">Clase 36: 28/08/2023</a></li>
+    <li><a href="./Kata_5/CLASE_35/">Clase 35: 23/08/2023</a></li>
+    <li><a href="./Kata_5/CLASE_36/">Clase 36: 28/08/2023</a></li>
 </ul>
