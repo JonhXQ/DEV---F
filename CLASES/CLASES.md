@@ -53,5 +53,10 @@
     <li><a href="./Kata_5/CLASE_33/">Clase 33: 16/08/2023</a></li>
     <li><a href="./Kata_5/CLASE_34/">Clase 34: 21/08/2023</a></li>
     <li><a href="./Kata_5/CLASE_35/">Clase 35: 23/08/2023</a></li>
-    <li><a href="./Kata_5/CLASE_36/">Clase 36: 28/08/2023</a></li>
+</ul>
+
+<h2>Kata Frontend Avanzado</h2>
+<ul>
+    <li><a href="./Kata_6/CLASE_36/">Clase 36: 17/10/2023</a></li>
+    <li><a href="./Kata_6/CLASE_37/">Clase 37: 19/10/2023</a></li>
 </ul>

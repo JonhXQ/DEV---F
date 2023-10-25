@@ -1,1 +1,0 @@
-<h1 align="center"><strong>Lunes 28 de agosto del 2023</strong></h1>
